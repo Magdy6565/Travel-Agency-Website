@@ -1,5 +1,6 @@
-README: Travel Agency Web Application
-Project Overview:
+# README: Travel Agency Web Application
+
+# Project Overview:
 This project is a full-stack Travel Agency Web Application designed to provide a seamless user experience for booking travel services. It includes features such as user authentication, secure payment processing, and an admin dashboard for managing users and content. The application is built using the MERN stack (MongoDB, Express.js, React, Node.js) and is optimized for high performance and scalability.
 
 Features:
